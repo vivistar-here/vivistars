@@ -30,6 +30,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vivistar/vivistar/output/snake.svg" alt="Snake animation" />
+<div align="center">
 
-###
+[![Ouça no Spotify](https://img.shields.io/badge/Spotify-Playlist-green?logo=spotify&style=for-the-badge)](https://open.spotify.com/playlist/6Jcn1hhlzgnwEw75bXC9lg?si=t4j7LZiMS-yf37dJy_3Rog)
